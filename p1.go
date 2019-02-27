@@ -4,9 +4,9 @@ import "fmt"
 
 func main() {
 	name := "qwe"
-	seyhey(name)
+	sayhey(name)
 }
 
-func seyhey(name string) {
+func sayhey(name string) {
 	fmt.Printf("Hey %s", name)
 }
